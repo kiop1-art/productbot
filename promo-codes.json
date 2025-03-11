@@ -4,13 +4,15 @@
         "discount": 20,
         "products": ["*"],
         "max_uses": 10,
-        "uses": 0
+        "uses": 0,
+        "used_by": []
     },
     {
         "code": "VIP15",
         "discount": 15,
-        "products": ["123456", "789012"],
+        "products": ["123456"],
         "max_uses": 5,
-        "uses": 0
+        "uses": 0,
+        "used_by": []
     }
 ]
