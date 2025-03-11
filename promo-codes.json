@@ -1,0 +1,16 @@
+[
+    {
+        "code": "SUMMER20",
+        "discount": 20,
+        "products": ["*"],
+        "max_uses": 10,
+        "uses": 0
+    },
+    {
+        "code": "VIP15",
+        "discount": 15,
+        "products": ["123456", "789012"],
+        "max_uses": 5,
+        "uses": 0
+    }
+]
